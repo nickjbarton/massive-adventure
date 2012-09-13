@@ -1,2 +1,3 @@
 second file
 release2 change
+feature1 change
